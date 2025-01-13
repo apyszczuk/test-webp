@@ -1,1 +1,1 @@
-<video src="cxx-cmake.mp4" />
+<video src="cxx-cmake.mp4" width="1000" />
