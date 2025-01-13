@@ -1,1 +1,1 @@
-<video src="cxx-cmake.mp4" width="1000px" />
+https://github.com/apyszczuk/test-webp/blob/master/cxx-cmake.mp4
