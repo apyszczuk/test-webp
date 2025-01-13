@@ -1,1 +1,1 @@
-[![Watch the video](https://github.com/apyszczuk/test-webp/blob/master/cxx-cmake.mp4)
+[![Watch the video](https://github.com/apyszczuk/test-webp/blob/master/cxx-cmake.mp4)]
