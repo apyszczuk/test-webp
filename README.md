@@ -1,1 +1,1 @@
-![Watch the video](cxx-cmake.mp4)
+<video src="cxx-cmake.mp4" />
